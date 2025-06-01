@@ -56,12 +56,13 @@ Visit: [http://localhost:3000](http://localhost:3000)
 ---
 
 ## 🖼️ Current UI Preview
+<img width="1202" alt="Screenshot 2025-06-01 at 5 45 26 PM" src="https://github.com/user-attachments/assets/a4ecdd60-8db9-46c9-811b-90fb5237c52b" />
 
-### 🔐 Sign In Page
-![Sign In UI](./screenshots/signin.png)
+
 
 ### 📝 Sign Up Page
-![Sign Up UI](./screenshots/signup.png)
+<img width="1202" alt="Screenshot 2025-06-01 at 5 45 45 PM" src="https://github.com/user-attachments/assets/a7374e64-9975-421b-90df-295106e40149" />
+
 
 ---
 
